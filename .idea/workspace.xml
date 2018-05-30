@@ -1,0 +1,529 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="22078dd4-a87f-4c98-a644-9c26908b39ad" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/my-first-webpack.config.js.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="package-lock.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package-lock.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="551">
+              <caret line="300" column="34" selection-start-line="300" selection-start-column="34" selection-end-line="300" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="webpack.config.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/webpack.config.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="8" column="11" lean-forward="true" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="1" column="7" lean-forward="true" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/alert.html" />
+        <option value="$PROJECT_DIR$/webpack.config.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/node_modules/ajv-keywords/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/ajv/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/alphanum-sort/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/ansi-regex/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/ansi-styles/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/argparse/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/asap/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/autoprefixer/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/babel-code-frame/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/babel-core/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/babel-generator/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/babel-helper-builder-react-jsx/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/babel-helper-call-delegate/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/babel-helper-define-map/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/babel-helper-function-name/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/babel-helper-get-function-arity/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/babel-helper-hoist-variables/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/babel-helper-optimise-call-expression/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/babel-helper-regex/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/babel-helper-replace-supers/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/babel-helpers/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/babel-loader/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/babel-messages/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/babel-plugin-check-es2015-constants/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/babel-plugin-syntax-flow/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/babel-plugin-syntax-jsx/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/babel-plugin-transform-es2015-arrow-functions/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/babel-plugin-transform-es2015-block-scoped-functions/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/babel-plugin-transform-es2015-block-scoping/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/babel-plugin-transform-es2015-classes/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/babel-plugin-transform-es2015-computed-properties/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/babel-plugin-transform-es2015-destructuring/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/babel-plugin-transform-es2015-duplicate-keys/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/babel-plugin-transform-es2015-for-of/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/babel-plugin-transform-es2015-function-name/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/babel-plugin-transform-es2015-literals/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/babel-plugin-transform-es2015-modules-amd/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/babel-plugin-transform-es2015-modules-commonjs/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/babel-plugin-transform-es2015-modules-systemjs/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/babel-plugin-transform-es2015-modules-umd/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/babel-plugin-transform-es2015-object-super/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/babel-plugin-transform-es2015-parameters/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/babel-plugin-transform-es2015-shorthand-properties/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/babel-plugin-transform-es2015-spread/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/babel-plugin-transform-es2015-sticky-regex/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/babel-plugin-transform-es2015-template-literals/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/babel-plugin-transform-es2015-typeof-symbol/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/babel-plugin-transform-es2015-unicode-regex/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/babel-plugin-transform-flow-strip-types/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/babel-plugin-transform-react-display-name/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/babel-plugin-transform-react-jsx-self/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/babel-plugin-transform-react-jsx-source/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/babel-plugin-transform-react-jsx/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/babel-plugin-transform-regenerator/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/babel-plugin-transform-strict-mode/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/babel-preset-es2015/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/babel-preset-flow/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/babel-preset-react/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/babel-register/node_modules/core-js/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/babel-register/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/babel-runtime/node_modules/core-js/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/babel-runtime/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/babel-template/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/babel-traverse/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/babel-types/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/babylon/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/balanced-match/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/big.js/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/brace-expansion/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/browserslist/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/caniuse-api/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/caniuse-db/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/clap/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/clone/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/coa/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/color-convert/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/color-name/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/color-string/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/color/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/colormin/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/colors/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/commondir/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/concat-map/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/convert-source-map/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/core-js/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/css-color-names/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/css-loader/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/css-selector-tokenizer/node_modules/regexpu-core/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/css-selector-tokenizer/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/cssesc/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/cssnano/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/csso/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/decamelize/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/defined/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/detect-indent/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/electron-to-chromium/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/emojis-list/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/encoding/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/escape-string-regexp/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/esprima/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/esutils/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/fast-deep-equal/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/fast-json-stable-stringify/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/fastparse/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/fbjs/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/find-cache-dir/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/find-up/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/flatten/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/function-bind/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/globals/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/has-ansi/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/has-flag/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/has/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/home-or-tmp/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/html-comment-regex/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/iconv-lite/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/icss-replace-symbols/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/icss-utils/node_modules/ansi-styles/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/icss-utils/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/icss-utils/node_modules/has-flag/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/icss-utils/node_modules/postcss/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/icss-utils/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/icss-utils/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/icss-utils/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/indexes-of/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/invariant/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/is-absolute-url/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/is-finite/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/is-plain-obj/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/is-stream/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/is-svg/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/isomorphic-fetch/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/js-base64/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/js-tokens/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/js-yaml/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/jsesc/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/json-schema-traverse/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/json5/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/less-loader/node_modules/clone/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/less-loader/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/loader-utils/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/locate-path/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/lodash.camelcase/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/lodash.memoize/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/lodash.uniq/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/lodash/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/loose-envify/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/make-dir/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/math-expression-evaluator/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/mime/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/minimatch/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/minimist/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/mkdirp/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/node-fetch/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/normalize-range/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/normalize-url/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/num2fraction/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/number-is-nan/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/object-assign/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/os-homedir/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/os-tmpdir/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/p-limit/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/p-locate/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/p-try/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/path-exists/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/path-is-absolute/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/pify/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/pkg-dir/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/postcss-calc/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/postcss-colormin/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/postcss-convert-values/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/postcss-discard-comments/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/postcss-discard-duplicates/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/postcss-discard-empty/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/postcss-discard-overridden/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/postcss-discard-unused/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/postcss-filter-plugins/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/postcss-merge-idents/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/postcss-merge-longhand/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/postcss-merge-rules/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/postcss-message-helpers/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/postcss-minify-font-values/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/postcss-minify-gradients/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/postcss-minify-params/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/postcss-minify-selectors/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/postcss-modules-extract-imports/node_modules/ansi-styles/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/postcss-modules-extract-imports/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/postcss-modules-extract-imports/node_modules/has-flag/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/postcss-modules-extract-imports/node_modules/postcss/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/postcss-modules-extract-imports/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/postcss-modules-extract-imports/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/postcss-modules-extract-imports/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/postcss-modules-local-by-default/node_modules/ansi-styles/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/postcss-modules-local-by-default/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/postcss-modules-local-by-default/node_modules/has-flag/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/postcss-modules-local-by-default/node_modules/postcss/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/postcss-modules-local-by-default/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/postcss-modules-local-by-default/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/postcss-modules-local-by-default/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/postcss-modules-scope/node_modules/ansi-styles/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/postcss-modules-scope/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/postcss-modules-scope/node_modules/has-flag/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/postcss-modules-scope/node_modules/postcss/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/postcss-modules-scope/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/postcss-modules-scope/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/postcss-modules-scope/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/postcss-modules-values/node_modules/ansi-styles/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/postcss-modules-values/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/postcss-modules-values/node_modules/has-flag/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/postcss-modules-values/node_modules/postcss/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/postcss-modules-values/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/postcss-modules-values/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/postcss-modules-values/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/postcss-normalize-charset/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/postcss-normalize-url/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/postcss-ordered-values/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/postcss-reduce-idents/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/postcss-reduce-initial/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/postcss-reduce-transforms/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/postcss-selector-parser/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/postcss-svgo/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/postcss-unique-selectors/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/postcss-value-parser/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/postcss-zindex/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/postcss/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/postcss/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/prepend-http/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/private/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/promise/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/prop-types/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/punycode/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/q/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/query-string/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/react-dom/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/react/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/reduce-css-calc/node_modules/balanced-match/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/reduce-css-calc/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/reduce-function-call/node_modules/balanced-match/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/reduce-function-call/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/regenerate/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/regenerator-runtime/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/regenerator-transform/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/regexpu-core/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/regjsgen/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/regjsparser/node_modules/jsesc/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/regjsparser/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/repeating/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/safer-buffer/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/sax/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/schema-utils/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/setimmediate/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/slash/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/sort-keys/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/source-list-map/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/source-map-support/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/sprintf-js/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/strict-uri-encode/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/strip-ansi/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/style-loader/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/svgo/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/to-fast-properties/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/trim-right/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/ua-parser-js/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/uniq/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/uniqs/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/uri-js/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/url-loader/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/vendors/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/whatwg-fetch/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/whet.extend/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="85" />
+    <option name="y" value="25" />
+    <option name="width" value="1750" />
+    <option name="height" value="970" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="my-first-webpack.config.js" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-first-webpack.config.js" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.prettier" value="true" />
+    <property name="node.js.path.for.package.prettier" value="project" />
+    <property name="node.js.selected.package.prettier" value="C:\Users\Rush2333\AppData\Roaming\npm\node_modules\prettier" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="22078dd4-a87f-4c98-a644-9c26908b39ad" name="Default" comment="" />
+      <created>1527489743516</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1527489743516</updated>
+      <workItem from="1527489744834" duration="599000" />
+      <workItem from="1527494607964" duration="3813000" />
+      <workItem from="1527568550653" duration="836000" />
+      <workItem from="1527580293175" duration="9000" />
+      <workItem from="1527667197706" duration="5877000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="11134000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22497366" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50052685" side_tool="true" weight="0.29738563" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49947312" visible="true" weight="0.2977099" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6600">
+          <caret line="300" column="34" selection-start-line="300" selection-start-column="34" selection-end-line="300" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6600">
+          <caret line="300" column="34" selection-start-line="300" selection-start-column="34" selection-end-line="300" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6600">
+          <caret line="300" column="34" lean-forward="true" selection-start-line="300" selection-start-column="34" selection-end-line="300" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alert.html" />
+    <entry file="file://$PROJECT_DIR$/../jhgsj-report/mini_program/dist/pages/basic_message/basic_message.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7146">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="300" column="34" selection-start-line="300" selection-start-column="34" selection-end-line="300" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="7" lean-forward="true" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="11" lean-forward="true" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
